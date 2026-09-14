@@ -1,0 +1,37 @@
+# Chapter 1
+
+## A Python Q&A Session
+
+### Notes
+
+>Reasons for using Python.
+    Software quality. The readability of the language sets it apart from other languages. The readability makes is reusable and maintainable. There is a huge amount of support and that has led to promoting code quality.
+    Developer productivity. It is typically a third or fifth of the size of C++ or Java code. With that means that there is less to type and debug. There are also not lengthy compile times.
+    Program portability. Python runs on all computer platforms. This means that code written on Linux can run on a MacOS machine.
+    Application support. Python is equipped with a large prebuilt and functional *standard library*. These libraries function to many application level programming tasks.
+    Component integration. It does not have to be a standalone language. It integrates with iOS and Android toolkits. It is able to communicate across multiple integration vectors.
+    Love of craft. The toolset and it its usage can make programming more enjoyable.
+>Is Python a scripting language?
+    The definition itself is varied, and Python has been included in the definition. It is an object oriented language. That means that the language uses tools around objects a attributes, and code, rather than just logic and actions. Do not get caught up on the definition.
+>Downsides to using Python.
+    In comparison to low level languages it may be slower. This may have been a vestige from earlier iterations. It seems to relative and usage based.
+>Who uses Python today?
+    it is a FOSS tool that does not have a tracking metric. It is used by many companies worldwide and has a vast community of supporters. It is being developed by enthusiasts and corporations alike, making this a vibrant landscape.
+>What can I do with Python?
+    Systems programming
+    GUIs and UIs
+    Internet and web scripting
+    Component integration
+    Database access
+    Rapid prototyping
+    Numeric and scientific programming
+    AI, games, images, apps
+>What are Python's technical strengths?
+    It is object oriented and uses simple syntax. It is free and open source, meaning that the code is viewable and editable by all. It offers portability within its ability to integrate with hardware and software. Its toolsets are powerful in that it has memory management, built in object types, tools and and extensive library.
+
+---
+---
+
+### Synopsis
+
+>It seems that learning Python is somewhat of a task that many have done over the years. Being able to see the reach of Python worldwide shows its popularity. As someone who wants to learn programming this seems to be a great place to start.
